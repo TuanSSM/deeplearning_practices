@@ -1,2 +1,2 @@
-# deeplearning_practices
+# Deep Learning Practices
 Tensorflow studies
